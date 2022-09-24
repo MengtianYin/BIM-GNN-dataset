@@ -1,0 +1,6094 @@
+{
+  "0": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 11
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 2
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          9,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          9,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          17
+        ]
+      },
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      }
+    ],
+    "sent": " Find railings whose height is higher than the height of railing:garage security grille 6-10 high:1321334",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 17
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 2
+      }
+    ]
+  },
+  "1": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_double_swing_right": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_listedmaterial_RigidInsulation": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_double_swing_right",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          5,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_double_swing_right",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_listedmaterial_RigidInsulation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          10
+        ]
+      },
+      {
+        "rel": "haslistedmaterial",
+        "TWONEINDEX": [
+          6,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_listedmaterial_RigidInsulation"
+        ],
+        "label": 12,
+        "TWONEENDINDEX": [
+          6,
+          10
+        ]
+      }
+    ],
+    "sent": "Get the double swing right door made by rigid insulation. ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_double_swing_right": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_listedmaterial_RigidInsulation": 10
+      }
+    ]
+  },
+  "2": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      }
+    ],
+    "NEPAIRS": [],
+    "sent": "List all windows of the building ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      }
+    ]
+  },
+  "3": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isspaceboundaryof",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 19,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      },
+      {
+        "rel": "isspaceboundaryof",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 19,
+        "TWONEENDINDEX": [
+          5,
+          11
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          7,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          8,
+          11
+        ]
+      }
+    ],
+    "sent": "The mutual boundary element of the space 002 and space 016 .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 11
+      }
+    ]
+  },
+  "4": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      }
+    ],
+    "sent": "Find all the spaces in the building with volumes less than 10 cubic meter",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume": 9
+      }
+    ]
+  },
+  "5": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          2,
+          3
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          2,
+          3
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      }
+    ],
+    "sent": "  Retrieve floor slabs that are load bearing .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 7
+      }
+    ]
+  },
+  "6": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformFrameWidth": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformSashes": 11
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformFrameWidth"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformSashes"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          12
+        ]
+      },
+      {
+        "rel": "logicor",
+        "TWONEINDEX": [
+          5,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformFrameWidth",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformSashes"
+        ],
+        "label": 2,
+        "TWONEENDINDEX": [
+          7,
+          12
+        ]
+      }
+    ],
+    "sent": "The door that has uniform frame width, or non uniform sashes.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformFrameWidth": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UniformSashes": 12
+      }
+    ]
+  },
+  "7": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      }
+    ],
+    "sent": " Select the slabs in the building whose height offsets equal to 0 ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 8
+      }
+    ]
+  },
+  "8": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      },
+      {
+        "rel": "hasspaceboundary",
+        "TWONEINDEX": [
+          3,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall"
+        ],
+        "label": 5,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          8,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          8,
+          9
+        ]
+      }
+    ],
+    "sent": "  Find the space that is bounded by exterior wall  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 9
+      }
+    ]
+  },
+  "9": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Bath": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Eletricalmeterroom": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasnextspace",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Bath",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Eletricalmeterroom"
+        ],
+        "label": 8,
+        "TWONEENDINDEX": [
+          4,
+          8
+        ]
+      }
+    ],
+    "sent": "  Is there any bath near eletrical meter room?  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Bath": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Eletricalmeterroom": 8
+      }
+    ]
+  },
+  "10": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 15
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 17
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          4,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          15
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          18
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          8,
+          15
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          15
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          8,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          8,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          8,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          18
+        ]
+      },
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          10,
+          15
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          10,
+          15
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          15,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          15,
+          18
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          10,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          10,
+          18
+        ]
+      }
+    ],
+    "sent": "Select all building elements located at the floors whose elevation is larger than the elevation of Level 1.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingElement": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 15
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 18
+      }
+    ]
+  },
+  "11": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 4
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      }
+    ],
+    "sent": "The doors on ground level .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 5
+      }
+    ]
+  },
+  "12": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isplacedin",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall"
+        ],
+        "label": 22,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      }
+    ],
+    "sent": " Select the windows that is on the Wall 026 ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 9
+      }
+    ]
+  },
+  "13": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_GlazingAreaFraction": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_GlazingAreaFraction"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": "Return the windows that has glazingareafraction = 2.45025.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_GlazingAreaFraction": 6
+      }
+    ]
+  },
+  "14": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 11
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          4,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          4,
+          11
+        ]
+      }
+    ],
+    "sent": " Select all the slabs in the building except those at ground level ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 11
+      }
+    ]
+  },
+  "15": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Kitchen": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UpperLimit": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_LimitOffset": 11
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Kitchen",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UpperLimit"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Kitchen",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Kitchen",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_LimitOffset"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          12
+        ]
+      },
+      {
+        "rel": "haspropertyvalue",
+        "TWONEINDEX": [
+          5,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UpperLimit",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2"
+        ],
+        "label": 21,
+        "TWONEENDINDEX": [
+          6,
+          9
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          5,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UpperLimit",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_LimitOffset"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          6,
+          12
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          8,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_LimitOffset"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          9,
+          12
+        ]
+      }
+    ],
+    "sent": "Return the kitchens with upper limit of Level 2 and limit offset not less than 0 .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Kitchen": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_UpperLimit": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_LimitOffset": 12
+      }
+    ]
+  },
+  "16": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_1620893": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_1620893"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "lessthan_property",
+        "TWONEINDEX": [
+          4,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea"
+        ],
+        "label": 28,
+        "TWONEENDINDEX": [
+          4,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_1620893"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      },
+      {
+        "rel": "isquantityof",
+        "TWONEINDEX": [
+          7,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_1620893"
+        ],
+        "label": 34,
+        "TWONEENDINDEX": [
+          7,
+          9
+        ]
+      }
+    ],
+    "sent": "  Return walls whose GrossSideArea less than GrossSideArea of 1620893 .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossSideArea": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_1620893": 9
+      }
+    ]
+  },
+  "17": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasnextspace",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 8,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": "Get the places connected with B205.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      }
+    ]
+  },
+  "18": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      }
+    ],
+    "sent": "Find the room that has biggest area",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 7
+      }
+    ]
+  },
+  "19": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          5,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          5,
+          11
+        ]
+      }
+    ],
+    "sent": " How many types of walls are used at the Flat Roof? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 11
+      }
+    ]
+  },
+  "20": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 1
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard": 4
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haslayeredmaterial",
+        "TWONEINDEX": [
+          1,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard"
+        ],
+        "label": 16,
+        "TWONEENDINDEX": [
+          1,
+          5
+        ]
+      }
+    ],
+    "sent": "Walls that has plasterboard layer larger than 0.02 .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 1
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard": 5
+      }
+    ]
+  },
+  "21": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_RiserCoverThickness": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 12
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isquantityof",
+        "TWONEINDEX": [
+          4,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_RiserCoverThickness",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 34,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_RiserCoverThickness",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          13
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          10,
+          13
+        ]
+      }
+    ],
+    "sent": " Show me the thickness of the riser cover of stair at Ground level. ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_RiserCoverThickness": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 13
+      }
+    ]
+  },
+  "22": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_plate": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCovering": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          4,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_plate",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCovering"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          4,
+          5
+        ]
+      }
+    ],
+    "sent": "Are there any plate coverings ?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_plate": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCovering": 5
+      }
+    ]
+  },
+  "23": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          4,
+          6
+        ]
+      }
+    ],
+    "sent": " Is there any space whose area is larger than 300 spuare meter? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area": 6
+      }
+    ]
+  },
+  "24": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_SillHeight": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_SillHeight"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          4,
+          7
+        ]
+      }
+    ],
+    "sent": " Find all the windows whose sill heights are lower than 900mm ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_SillHeight": 7
+      }
+    ]
+  },
+  "25": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter": 4
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          2,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      }
+    ],
+    "sent": "  Find floors with perimeter less than 100 at first floor .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter": 4
+      }
+    ]
+  },
+  "26": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Width": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Width"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      }
+    ],
+    "sent": " Find the door whose width equals to 850 mm ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Width": 5
+      }
+    ]
+  },
+  "27": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_OPENOFFICE": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_OPENOFFICE",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          4,
+          6
+        ]
+      },
+      {
+        "rel": "hasspatialcomposition",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_OPENOFFICE",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 7,
+        "TWONEENDINDEX": [
+          4,
+          11
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          11
+        ]
+      }
+    ],
+    "sent": " Return all open offices with area > 500 at Level 2.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_OPENOFFICE": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 11
+      }
+    ]
+  },
+  "28": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_RailingGarageSecurityGrille610High": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasdirectobjecttyping",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_RailingGarageSecurityGrille610High"
+        ],
+        "label": 15,
+        "TWONEENDINDEX": [
+          2,
+          12
+        ]
+      }
+    ],
+    "sent": "  List railings classified as Railing:Garage Security Grille 6'-10\" High .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcRailing": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_RailingGarageSecurityGrille610High": 12
+      }
+    ]
+  },
+  "29": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCurtainWall": 1
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_mullion": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcMember": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          1,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCurtainWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_mullion"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "haselementdecomposition",
+        "TWONEINDEX": [
+          1,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCurtainWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcMember"
+        ],
+        "label": 13,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      },
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          4,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_mullion",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcMember"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          4,
+          5
+        ]
+      }
+    ],
+    "sent": "   Curtain walls contain mullion members with span > 17 .   ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcCurtainWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_mullion": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcMember": 5
+      }
+    ]
+  },
+  "30": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcColumn": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasspaceboundary",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcColumn"
+        ],
+        "label": 5,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": " How many rooms that have columns? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcColumn": 6
+      }
+    ]
+  },
+  "31": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ExtraFrame": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 12
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ExtraFrame"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          4,
+          7
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          4,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          4,
+          13
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          6,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ExtraFrame",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          7,
+          13
+        ]
+      }
+    ],
+    "sent": "Find all the windows without extra frame and  located at the first floor.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ExtraFrame": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 13
+      }
+    ]
+  },
+  "32": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Width": 11
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          5,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          5,
+          7
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          5,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Width"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          5,
+          11
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          7,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Width"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          7,
+          11
+        ]
+      }
+    ],
+    "sent": "Show me all the footings with length >1.5 and width <1.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Width": 11
+      }
+    ]
+  },
+  "33": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haslayeredmaterial",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick"
+        ],
+        "label": 16,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "haslayeredmaterial",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard"
+        ],
+        "label": 16,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          6,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          6,
+          8
+        ]
+      }
+    ],
+    "sent": "Select the walls that contain masonry-brick and plasterboard.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_Plasterboard": 8
+      }
+    ]
+  },
+  "34": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      }
+    ],
+    "sent": " Find a slab that has highest elevation ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 7
+      }
+    ]
+  },
+  "35": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isspaceboundaryof",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 19,
+        "TWONEENDINDEX": [
+          4,
+          8
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          7,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          10
+        ]
+      }
+    ],
+    "sent": "  List the space boundary elements of Room 05 whose height is larger than 10 FOOT .   ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_spaceboundary": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 10
+      }
+    ]
+  },
+  "36": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 12
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          12
+        ]
+      },
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          4,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          12
+        ]
+      },
+      {
+        "rel": "isquantityof",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 34,
+        "TWONEENDINDEX": [
+          10,
+          12
+        ]
+      }
+    ],
+    "sent": "  Choose floors whose GrossArea is larger than the maximum GrossCeilingArea of ceilings in the building .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 12
+      }
+    ]
+  },
+  "37": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 12
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 17
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 19
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          13
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          19
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          20
+        ]
+      },
+      {
+        "rel": "lessthan_property",
+        "TWONEINDEX": [
+          5,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 28,
+        "TWONEENDINDEX": [
+          6,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          13
+        ]
+      },
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          5,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          6,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          19
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          20
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          10,
+          13
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          10,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          10,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          10,
+          19
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          10,
+          20
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          12,
+          17
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          13,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          12,
+          19
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          13,
+          20
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          17,
+          19
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          17,
+          20
+        ]
+      }
+    ],
+    "sent": "Get all slabs whose elevation top is lower than elevation of second floor and higher than elevation of first floor ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_ElevationTop": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 13
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 17
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 20
+      }
+    ]
+  },
+  "38": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 12
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 3
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          10,
+          20
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          20
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          20
+        ]
+      },
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          6,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          6,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": "Find the footings that have length larger than the length of Wall Foundation:Bearing Footing - 900 x 300:186620 .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 20
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 3
+      }
+    ]
+  },
+  "39": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcPlate": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_1InsulatedClearGlass": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcPlate"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_1InsulatedClearGlass"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "hasdirectobjecttyping",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcPlate",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_1InsulatedClearGlass"
+        ],
+        "label": 15,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      }
+    ],
+    "sent": "select all external plates from 1\" Insulated Clear Glass. ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcPlate": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_1InsulatedClearGlass": 10
+      }
+    ]
+  },
+  "40": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_AboveGround": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_AboveGround"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_AboveGround"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      }
+    ],
+    "sent": "Find floors whose elevation > 0 and property aboveground is unknown .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_AboveGround": 9
+      }
+    ]
+  },
+  "41": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 12
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "largerthan_property",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 27,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          13
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          7,
+          10
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          10,
+          13
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          7,
+          13
+        ]
+      }
+    ],
+    "sent": "Is the elevation of the top roof larger than elevation of flat roof?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Elevation": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 13
+      }
+    ]
+  },
+  "42": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_BaseLevel": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_BaseLevel"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          8
+        ]
+      },
+      {
+        "rel": "haspropertyvalue",
+        "TWONEINDEX": [
+          4,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_BaseLevel",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2"
+        ],
+        "label": 21,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      }
+    ],
+    "sent": "Choose stairs whose base level is Level 2 .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_BaseLevel": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Level2": 8
+      }
+    ]
+  },
+  "43": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser": 13
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      },
+      {
+        "rel": "hasTag",
+        "TWONEINDEX": [
+          5,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760"
+        ],
+        "label": 32,
+        "TWONEENDINDEX": [
+          5,
+          6
+        ]
+      },
+      {
+        "rel": "haselementcomposition",
+        "TWONEINDEX": [
+          5,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 14,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          9
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          5,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          5,
+          15
+        ]
+      },
+      {
+        "rel": "hasTag",
+        "TWONEINDEX": [
+          2,
+          3
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756"
+        ],
+        "label": 32,
+        "TWONEENDINDEX": [
+          2,
+          3
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          6
+        ]
+      },
+      {
+        "rel": "haselementcomposition",
+        "TWONEINDEX": [
+          2,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 14,
+        "TWONEENDINDEX": [
+          2,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          15
+        ]
+      },
+      {
+        "rel": "hasTag",
+        "TWONEINDEX": [
+          8,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755"
+        ],
+        "label": 32,
+        "TWONEENDINDEX": [
+          8,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          8,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          9,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          9,
+          15
+        ]
+      }
+    ],
+    "sent": "do run 570756 and run 570760 of stair 570755 have the same number of riser?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570756": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570760": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_570755": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_NumberOfRiser": 15
+      }
+    ]
+  },
+  "44": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          2,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      }
+    ],
+    "sent": "The beams located at the level 2.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 7
+      }
+    ]
+  },
+  "45": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_InteriorCasingSurface": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          6,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_InteriorCasingSurface",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          8,
+          11
+        ]
+      }
+    ],
+    "sent": " Show me the property of interior casing surface of Window 006 ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_InteriorCasingSurface": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 11
+      }
+    ]
+  },
+  "46": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 4
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          6
+        ]
+      }
+    ],
+    "sent": "Return ceilings whose gross ceiling area is larger than 150 SQUARE FOOT",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 6
+      }
+    ]
+  },
+  "47": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_single_swing_right": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hastypeenum",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_single_swing_right"
+        ],
+        "label": 4,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": "Select all doors which is single_swing_right.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_single_swing_right": 6
+      }
+    ]
+  },
+  "48": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 13
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          3,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          3,
+          14
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          13
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          14
+        ]
+      }
+    ],
+    "sent": " Find the wall whose volume is higher than 5 cubic meters at Level 3 ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Volume": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 14
+      }
+    ]
+  },
+  "49": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "hasspatialcomposition",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 7,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          6,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          6,
+          9
+        ]
+      }
+    ],
+    "sent": " Is the room with largest area at ground floor? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Area": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 9
+      }
+    ]
+  },
+  "50": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_FloorFinishFloorWood": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_FloorFinishFloorWood"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          11
+        ]
+      },
+      {
+        "rel": "hasdirectobjecttyping",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_FloorFinishFloorWood"
+        ],
+        "label": 15,
+        "TWONEENDINDEX": [
+          4,
+          11
+        ]
+      }
+    ],
+    "sent": "Select the loadbearing slab from Floor:Finish Floor - Wood.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_directobjecttype_FloorFinishFloorWood": 11
+      }
+    ]
+  },
+  "51": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Material": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_144870": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Material",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Material",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_144870"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "hasTag",
+        "TWONEINDEX": [
+          5,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_144870"
+        ],
+        "label": 32,
+        "TWONEENDINDEX": [
+          5,
+          6
+        ]
+      }
+    ],
+    "sent": "Return the material of footing 144870. ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Material": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_144870": 6
+      }
+    ]
+  },
+  "52": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      }
+    ],
+    "sent": "Get the slab whose perimeter is the largest.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Perimeter": 5
+      }
+    ]
+  },
+  "53": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_roof": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_542775": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_roof",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_542775"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_roof",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_roof",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_542775",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          6
+        ]
+      },
+      {
+        "rel": "istagof",
+        "TWONEINDEX": [
+          4,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_542775",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 38,
+        "TWONEENDINDEX": [
+          4,
+          7
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          6,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          6,
+          7
+        ]
+      }
+    ],
+    "sent": " Is the Roof 542775 an external slab? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_roof": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_542775": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 7
+      }
+    ]
+  },
+  "54": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_NetArea": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_NetArea"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      }
+    ],
+    "sent": " Find the slab that has the largest net area in the building ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_NetArea": 9
+      }
+    ]
+  },
+  "55": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      }
+    ],
+    "sent": " Return the doors that are used in the heighest level of the building ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcDoor": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      }
+    ]
+  },
+  "56": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasspatialdecomposition",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace"
+        ],
+        "label": 18,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      }
+    ],
+    "sent": "Which level is the space “003” located? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 7
+      }
+    ]
+  },
+  "57": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Height": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Height"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "hasspatialcomposition",
+        "TWONEINDEX": [
+          2,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 7,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      }
+    ],
+    "sent": "  Retrieve rooms with height > 10 at ground floor .   ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_Height": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 9
+      }
+    ]
+  },
+  "58": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_landing": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Thickness": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haselementdecomposition",
+        "TWONEINDEX": [
+          4,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_landing"
+        ],
+        "label": 13,
+        "TWONEENDINDEX": [
+          4,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Thickness"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          5,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_landing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Thickness"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          5,
+          10
+        ]
+      }
+    ],
+    "sent": " Is all the stair landing in the building having thickness equaling to 50mm? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_landing": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Thickness": 10
+      }
+    ]
+  },
+  "59": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RiserHeight": 4
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haselementdecomposition",
+        "TWONEINDEX": [
+          2,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight"
+        ],
+        "label": 13,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RiserHeight"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          4,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RiserHeight",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          5,
+          7
+        ]
+      }
+    ],
+    "sent": " Select stairs whose riser height of run is less than 165mm ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStairFlight": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RiserHeight": 5
+      }
+    ]
+  },
+  "60": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Laundry": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasspatialdecomposition",
+        "TWONEINDEX": [
+          4,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Laundry"
+        ],
+        "label": 18,
+        "TWONEENDINDEX": [
+          4,
+          7
+        ]
+      }
+    ],
+    "sent": "  Show me the level where the laundry locates  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_LongName_Laundry": 7
+      }
+    ]
+  },
+  "61": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haslayeredmaterial",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick"
+        ],
+        "label": 16,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          10
+        ]
+      },
+      {
+        "rel": "logicor",
+        "TWONEINDEX": [
+          5,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 2,
+        "TWONEENDINDEX": [
+          7,
+          10
+        ]
+      }
+    ],
+    "sent": "The wall made of Masonry - Brick or its area is larger than 40.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 10
+      }
+    ]
+  },
+  "62": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Category": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Exitlobby": 7
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Category"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Exitlobby"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          8
+        ]
+      },
+      {
+        "rel": "haspropertyvalue",
+        "TWONEINDEX": [
+          5,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Category",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Exitlobby"
+        ],
+        "label": 21,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      }
+    ],
+    "sent": "The spaces that the category is exit lobby.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Category": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpropertyvalue_Exitlobby": 8
+      }
+    ]
+  },
+  "63": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_186596": 11
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_186596"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          11
+        ]
+      },
+      {
+        "rel": "lessthan_property",
+        "TWONEINDEX": [
+          5,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 28,
+        "TWONEENDINDEX": [
+          5,
+          9
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_186596"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          11
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          9,
+          11
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_186596"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          9,
+          11
+        ]
+      }
+    ],
+    "sent": "Find the footings whose length is less than length of 186596 .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcFooting": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 9
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_186596": 11
+      }
+    ]
+  },
+  "64": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasspaceboundary",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall"
+        ],
+        "label": 5,
+        "TWONEENDINDEX": [
+          2,
+          6
+        ]
+      }
+    ],
+    "sent": " Get space bounded by Wall 477924 ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSpace": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 6
+      }
+    ]
+  },
+  "65": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isplacedin",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall"
+        ],
+        "label": 22,
+        "TWONEENDINDEX": [
+          3,
+          13
+        ]
+      }
+    ],
+    "sent": "Get all windows placed in Basic Wall:Exterior â€“ Brick on Mtl. Stud: 139883.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWindow": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 13
+      }
+    ]
+  },
+  "66": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          4,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "haselementcomposition",
+        "TWONEINDEX": [
+          6,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 14,
+        "TWONEENDINDEX": [
+          6,
+          10
+        ]
+      }
+    ],
+    "sent": "Select the loadbearing slab with Level to be Level 1 . ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 10
+      }
+    ]
+  },
+  "67": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossVolume": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossVolume"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      }
+    ],
+    "sent": "  Find the beams that have the maximum GrossVolume .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossVolume": 8
+      }
+    ]
+  },
+  "68": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Slope": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          4,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          5,
+          6
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Slope"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          6,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Slope"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          6,
+          8
+        ]
+      }
+    ],
+    "sent": "Find all the load bearing beams with slope = 0.  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBeam": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Slope": 8
+      }
+    ]
+  },
+  "69": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ActualTreadDepth": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_571220": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ActualTreadDepth",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          5,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ActualTreadDepth",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_571220"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      },
+      {
+        "rel": "hasTag",
+        "TWONEINDEX": [
+          7,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_571220"
+        ],
+        "label": 32,
+        "TWONEENDINDEX": [
+          7,
+          8
+        ]
+      }
+    ],
+    "sent": "Is the Actual Tread Depth of stair 571220 larger than 220mm?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_ActualTreadDepth": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_tag_571220": 8
+      }
+    ]
+  },
+  "70": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 9
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          2,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          2,
+          9
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          4,
+          9
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          4,
+          9
+        ]
+      }
+    ],
+    "sent": "The wall with length less than 18 and area larger than 40.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcWall": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Length": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 9
+      }
+    ]
+  },
+  "71": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 14
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 12
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          10,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          10,
+          15
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          12,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          12,
+          15
+        ]
+      },
+      {
+        "rel": "hasquantity",
+        "TWONEINDEX": [
+          2,
+          4
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea"
+        ],
+        "label": 10,
+        "TWONEENDINDEX": [
+          2,
+          4
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          12
+        ]
+      },
+      {
+        "rel": "lessthan_property",
+        "TWONEINDEX": [
+          4,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea"
+        ],
+        "label": 28,
+        "TWONEENDINDEX": [
+          4,
+          10
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          4,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          4,
+          12
+        ]
+      },
+      {
+        "rel": "isquantityof",
+        "TWONEINDEX": [
+          10,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling"
+        ],
+        "label": 34,
+        "TWONEENDINDEX": [
+          10,
+          12
+        ]
+      }
+    ],
+    "sent": "  Find floors whose GrossArea is less than the maximum GrossCeilingArea of ceilings at 1st Floor .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 15
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_GrossCeilingArea": 10
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 12
+      }
+    ]
+  },
+  "72": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 6
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          6
+        ]
+      }
+    ],
+    "sent": "Find the ceilings with maximum area .",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_ceiling": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_Area": 6
+      }
+    ]
+  },
+  "73": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RailingType(rightRailType)": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          4,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RailingType(rightRailType)",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          6,
+          10
+        ]
+      }
+    ],
+    "sent": "What is the railing type rightrailtype of stair - 001 ?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_RailingType(rightRailType)": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 10
+      }
+    ]
+  },
+  "74": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 5
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "haslayeredmaterial",
+        "TWONEINDEX": [
+          2,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick"
+        ],
+        "label": 16,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      }
+    ],
+    "sent": "  Choose floors made of masonry - brick .  ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_layermaterial_MasonryBrick": 7
+      }
+    ]
+  },
+  "75": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_HolesSurfaceArea": 4
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 8
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "isquantityof",
+        "TWONEINDEX": [
+          4,
+          8
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_HolesSurfaceArea",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 34,
+        "TWONEENDINDEX": [
+          6,
+          9
+        ]
+      }
+    ],
+    "sent": " What is the holes surface area of Slab 014? ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_quantity_HolesSurfaceArea": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 9
+      }
+    ]
+  },
+  "76": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 6
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 10
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "istypeenumof",
+        "TWONEINDEX": [
+          2,
+          3
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab"
+        ],
+        "label": 24,
+        "TWONEENDINDEX": [
+          2,
+          3
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          7
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          2,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          2,
+          10
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          6
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          7
+        ]
+      },
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          10
+        ]
+      },
+      {
+        "rel": "logicand",
+        "TWONEINDEX": [
+          6,
+          10
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal"
+        ],
+        "label": 1,
+        "TWONEENDINDEX": [
+          7,
+          10
+        ]
+      }
+    ],
+    "sent": "  Get floor slabs that are load bearing and not external.   ",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_typeenum_floor": 2
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_LoadBearing": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_IsExternal": 10
+      }
+    ]
+  },
+  "77": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 7
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 12
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 14
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 16
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          3,
+          5
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      },
+      {
+        "rel": "equal_property",
+        "TWONEINDEX": [
+          3,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 29,
+        "TWONEENDINDEX": [
+          3,
+          12
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          14
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          3,
+          16
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          3,
+          17
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          5,
+          7
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          5,
+          8
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          12
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          14
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          16
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          5,
+          17
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          7,
+          12
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          12
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          7,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          14
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          7,
+          16
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          17
+        ]
+      },
+      {
+        "rel": "ispropertyof",
+        "TWONEINDEX": [
+          12,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair"
+        ],
+        "label": 30,
+        "TWONEENDINDEX": [
+          12,
+          14
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          12,
+          16
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          12,
+          17
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          14,
+          16
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          14,
+          17
+        ]
+      }
+    ],
+    "sent": "Is the height of stairs at Level 1 equaling to the height of stairs at Level 2 ?",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcommon_Height": 12
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcStair": 14
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 17
+      }
+    ]
+  },
+  "78": {
+    "NEINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_HeightOffsetFromLevel": 5
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 14
+      }
+    ],
+    "NEPAIRS": [
+      {
+        "rel": "hasproperty",
+        "TWONEINDEX": [
+          3,
+          5
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_HeightOffsetFromLevel"
+        ],
+        "label": 3,
+        "TWONEENDINDEX": [
+          3,
+          8
+        ]
+      },
+      {
+        "rel": "iscontainedin",
+        "TWONEINDEX": [
+          3,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 20,
+        "TWONEENDINDEX": [
+          3,
+          15
+        ]
+      },
+      {
+        "rel": "N.A.",
+        "TWONEINDEX": [
+          5,
+          14
+        ],
+        "TWONE": [
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_HeightOffsetFromLevel",
+          "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey"
+        ],
+        "label": 0,
+        "TWONEENDINDEX": [
+          8,
+          15
+        ]
+      }
+    ],
+    "sent": "Select the slabs with height offset from level larger than 5m at the second floor.",
+    "ENDINDEX": [
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcSlab": 3
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#nln_ifcpsetcustom_HeightOffsetFromLevel": 8
+      },
+      {
+        "http://www.co-ode.org/ontologies/ont.owl/NLnames#NaturalLanguageNames_ifcBuildingStorey": 15
+      }
+    ]
+  }
+}
